@@ -11,32 +11,22 @@ tasks, and stay updated with seasonal weather tips — all in one place.
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](assets/screenshots/home.png)
-
-> Smart Farming Starts Here — with quick access to Crop Advisor and Task Tracker.
+![Home Page](screenshots/Screenshot_2026-06-26_121935.png)
 
 ---
 
 ### 🌱 Crop Advisor
-![Crop Advisor](assets/screenshots/crop-advisor.png)
-
-> Select soil type and season to get tailored crop planting recommendations.
-> The database has 14 crops registered across Kharif, Rabi, and Zaid seasons.
+![Crop Advisor](screenshots/Screenshot_2026-06-26_122052.png)
 
 ---
 
 ### ✅ Farm Tasks
-![Farm Tasks](assets/screenshots/farm-tasks.png)
-
-> Add, manage, and track your daily farm chores with due dates and completion status.
+![Farm Tasks](screenshots/Screenshot_2026-06-26_122535.png)
 
 ---
 
 ### 🌤️ Weather & Seasonal Tips
-![Weather Tips](assets/screenshots/weather-tips.png)
-
-> Practical seasonal advice for Kharif, Rabi, and Zaid seasons to protect crops
-> and maximize yield.
+![Weather Tips](screenshots/Screenshot_2026-06-26_122617.png)
 
 ---
 
